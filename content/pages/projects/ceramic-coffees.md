@@ -2,7 +2,7 @@
 layout: project.njk
 
 thumbnail: /img/thumbnail-ceramic-coffees.png
-description_short: Developing a Brand Identity for a Local Business
+description_short: Developing a Brand Identity
 description_medium: branding, print design, etc.
 eleventyNavigation:
   key: Ceramic Coffees
