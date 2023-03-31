@@ -145,7 +145,7 @@ body {
 .main-nav-container {
   width: clamp(250px, 30%, 500px);
   position: fixed;
-  background-color: #39165f;
+  background-color: #000000;
   height: 100%;
   padding: 1rem;
   z-index: 10;
@@ -180,7 +180,7 @@ body {
 }
 
 .active {
-  background-color: #1d0338;
+  background-color: rgb(24, 1, 54);
   transition: background-color 0.2s;
 }
 
@@ -211,7 +211,7 @@ body {
   transition: background-color 0.2s;
 }
 .sidebar-nav-link-section a:hover {
-  background-color: #1d0338;
+  background-color: rgb(24, 1, 54);
 }
 
 main {
@@ -402,8 +402,8 @@ p.portfolio-card-desc-short {
   font-size: 0.7692307692rem;
   padding: 0.75em;
   background-color: transparent;
-  border: 2px solid rgb(111, 0, 255);
-  color: rgb(111, 0, 255);
+  border: 2px solid rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
   border-radius: 0.25em;
   width: auto;
   text-transform: uppercase;
@@ -412,7 +412,7 @@ p.portfolio-card-desc-short {
   transition: all 0.2s;
 }
 .portfolio-wide-cta-link.portfolio-wide-cta-link:hover {
-  background-color: rgb(111, 0, 255);
+  background-color: rgb(255, 255, 255);
   color: rgb(24, 1, 54);
   transition: all 0.2s;
 }
@@ -480,7 +480,7 @@ html {
   }
   .main-nav {
     transform: none;
-    background-color: #39165f;
+    background-color: #000000;
     opacity: 1;
     width: 100vw;
     transition: all 0.3s;
@@ -529,7 +529,7 @@ html {
     fill: rgb(255, 255, 255);
   }
   .btn-toggle-menu:hover {
-    background-color: #1d0338;
+    background-color: rgb(24, 1, 54);
   }
   .site-masthead {
     z-index: 10;
@@ -541,7 +541,7 @@ html {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background-color: #39165f;
+    background-color: #000000;
   }
   .site-masthead h3 {
     margin: 0;

@@ -92,7 +92,7 @@ $nav-project-indent: 2em;
 
 // This line sets the background color for the sidebar area, and for the top bar on mobile
 // default is a light gray (#c0c0c0)
-$color-sidebar-background: #39165f;
+$color-sidebar-background: #000000;
 
 // This line sets the text color for the sidebar area, and for the top bar on mobile
 // default is black
@@ -100,7 +100,7 @@ $color-sidebar-text: rgb(255, 255, 255);
 
 //This line sets the color of the sidebar highlight (shown on the current page);
 // default is white
-$color-sidebar-highlight: #1d0338;
+$color-sidebar-highlight: rgb(24, 1, 54);
 
 //this sets the color of the rule on the sidebar (shown between the masthead and the pages)
 //default is black;
@@ -192,4 +192,4 @@ $min-card-width: 400px;
 
 //this sets the color for the CTA button on the wide portfolio layout.
 //defualt is orange
-$portfolio-wide-cta-color: rgb(111, 0, 255);
+$portfolio-wide-cta-color: rgb(255, 255, 255);
