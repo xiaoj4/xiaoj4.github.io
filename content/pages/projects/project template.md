@@ -5,7 +5,7 @@ thumbnail: /img/sample/community-builders-tile.jpg
 description_short: Redesigning a Local Nonprofit's Branding for Increased Engagement
 description_medium: branding, print design, etc.
 eleventyNavigation:
-  key: Community Builders
+  key: project 2
   parent: design
   order: 2
 ---
