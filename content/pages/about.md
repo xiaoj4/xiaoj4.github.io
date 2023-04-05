@@ -8,11 +8,14 @@ eleventyNavigation:
 
 # About{.page-title}
 
-Hi there! My name is _Name_, and I'm a graphic designer with a passion for creating beautiful and effective designs. As a recent graduate with a Bachelor's degree in Graphic Design, I have spent the past few years honing my skills and developing my expertise in the field. I am excited to use my skills to help businesses and individuals communicate their message through effective visual design.
+Hello! I'm Maggie Xiao and I'm a graphic designer who is interested in UI/UX- specifically pertaining to the game design industry. As a recent graduate with a Bachelor's degree in Graphic Design, I have spent the past few years learning and honing skills to aid me in the field. I am excited to be able to use my expertise in helping businesses and individuals to communicate their message through effective visual design.
 
-When I'm not working on design projects, you can find me exploring new hiking trails or trying out new recipes in the kitchen. As an avid outdoor enthusiast, I love spending time in nature and find that it's a great way to recharge my creativity. I also enjoy attending local art exhibitions and music concerts, as I find that these experiences often inspire my design work and keep me up-to-date with the latest trends in the industry. Additionally, I have a passion for photography and love capturing the world around me through my lens. All of these hobbies and interests feed into my design work, and I believe that they help me to approach each project with a unique perspective and creative edge.
+When I'm not working on my design projects, you can find me baking goodies, enjoying tea while reading, or being terrible at video games with my friends. Although, I'm not the best, due to my enjoyment of video games, I have great interest for game design. I enjoy having a graphic designer's perspective of the game's interfaces and interactions with players such as myself and thus have even greater appreciation for the designer behind it. Whilst relaxing and enjoying my hobby, it's pretty awesome to me that I can learn what makes good UI/UX by having personal user experience. 
 
 # Contact{.page-title}
 
-Hey there! I'm excited to connect with you and chat about your design project. Whether you already have a clear vision in mind or need some help bringing your ideas to life, I'm here to help. Let's schedule a consultation to discuss your project in more detail and explore creative solutions together. If you have any questions or just want to chat about design, feel free to shoot me an email or give me a call.
+I am always open to connect with you and chat about your design project! Even if you need some help bringing your ideas to life, I'm here to help. Please schedule a consultation with me so we can discuss your project in more detail together.  
+If you have any questions or just wish to chat about UI/UX design please feel free to send me an email!
+
+Email me at: maggiex515@gmail.com
 
