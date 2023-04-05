@@ -5,7 +5,7 @@ thumbnail: /img/sample/markdown-demo.jpg
 description_short: a sample project page showing different ways to format text in Markdown.
 description_medium: markdown
 eleventyNavigation:
-  key: Markdown Demo
+  key: markdown stuff
   parent: design
   order: 4
 ---

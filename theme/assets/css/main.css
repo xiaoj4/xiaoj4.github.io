@@ -1,6 +1,5 @@
 /* font imports here */
 @import url("https://use.typekit.net/lib2dva.css");
-@import url("https://use.typekit.net/lib2dva.css");
 *,
 *::before,
 *::after {
@@ -36,7 +35,7 @@ body {
 /* This line sets the font for larger headers (h1-h3), including the site title*/
 :root {
   font-size: 110%;
-  font-family: "gelica", sans-serif;
+  font-family: "courier", monospace;
 }
 
 img {
@@ -51,7 +50,7 @@ main {
 }
 
 html {
-  background-color: rgb(24, 1, 54);
+  background-color: black;
 }
 
 h1 {
@@ -81,7 +80,7 @@ h4 {
 
 h5,
 h6 {
-  font-family: "gelica", sans-serif;
+  font-family: "courier", monospace;
 }
 
 h1,
@@ -123,7 +122,7 @@ main * {
   color: rgb(255, 255, 255);
 }
 main a {
-  color: rgb(96, 0, 206);
+  color: lightgrey;
 }
 main ul li,
 main ol li {
@@ -280,7 +279,7 @@ pre {
   font-size: 1.25rem;
 }
 .portfolio-card-tile:hover, .portfolio-card-tile:focus, .portfolio-card-tile:active {
-  background-color: rgb(207, 181, 255);
+  background-color: white;
 }
 
 p.portfolio-card-desc-short {
@@ -413,7 +412,7 @@ p.portfolio-card-desc-short {
 }
 .portfolio-wide-cta-link.portfolio-wide-cta-link:hover {
   background-color: rgb(255, 255, 255);
-  color: rgb(24, 1, 54);
+  color: black;
   transition: all 0.2s;
 }
 
@@ -596,7 +595,7 @@ pre {
 }
 .component-inline-nav .sibling-navigation a:hover,
 .component-inline-nav .sibling-navigation a:focus {
-  background-color: rgb(227, 214, 235);
+  background-color: lightgrey;
 }
 .component-inline-nav .sibling-navigation > :first-child {
   text-align: left;
