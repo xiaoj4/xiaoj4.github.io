@@ -7,7 +7,7 @@ description_medium: branding, print design, etc.
 eleventyNavigation:
   key: project 2
   parent: design
-  order: 2
+  order: 10
 ---
 
 ## Background
