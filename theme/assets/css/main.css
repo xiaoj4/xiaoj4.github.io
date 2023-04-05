@@ -150,7 +150,7 @@ body {
   padding: 1rem;
   z-index: 10;
   transition: all 0.5s;
-  color: rgb(255, 255, 255);
+  color: white;
 }
 
 .site-masthead {
@@ -159,7 +159,7 @@ body {
   padding-bottom: 1rem;
 }
 .site-masthead a {
-  color: rgb(255, 255, 255);
+  color: white;
   text-decoration: none;
 }
 .site-masthead h3 {
@@ -180,7 +180,7 @@ body {
 }
 
 .active {
-  background-color: rgb(24, 1, 54);
+  background-color: black;
   transition: background-color 0.2s;
 }
 
@@ -202,7 +202,7 @@ body {
   padding-inline-start: 0;
 }
 .sidebar-nav-link-section * {
-  color: rgb(255, 255, 255);
+  color: white;
   text-decoration: none;
 }
 .sidebar-nav-link-section a {
@@ -211,7 +211,7 @@ body {
   transition: background-color 0.2s;
 }
 .sidebar-nav-link-section a:hover {
-  background-color: rgb(24, 1, 54);
+  background-color: black;
 }
 
 main {
@@ -526,10 +526,10 @@ html {
   .btn-toggle-menu svg {
     height: 100%;
     width: 100%;
-    fill: rgb(255, 255, 255);
+    fill: white;
   }
   .btn-toggle-menu:hover {
-    background-color: rgb(24, 1, 54);
+    background-color: black;
   }
   .site-masthead {
     z-index: 10;
@@ -537,7 +537,7 @@ html {
     height: 3rem;
     display: flex;
     padding: 0 0.5rem;
-    border-bottom: 2px solid rgb(248, 235, 255);
+    border-bottom: 2px solid white;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;

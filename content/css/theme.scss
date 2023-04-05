@@ -96,11 +96,11 @@ $color-sidebar-background: #000000;
 
 // This line sets the text color for the sidebar area, and for the top bar on mobile
 // default is black
-$color-sidebar-text: rgb(255, 255, 255);
+$color-sidebar-text: white;
 
 //This line sets the color of the sidebar highlight (shown on the current page);
 // default is white
-$color-sidebar-highlight: rgb(24, 1, 54);
+$color-sidebar-highlight: black;
 
 //this sets the color of the rule on the sidebar (shown between the masthead and the pages)
 //default is black;
@@ -112,7 +112,7 @@ $weight-sidebar-rule: 0px;
 
 // This sets the color of the bottom border on the top nav bar on mobile
 // default is black
-$color-top-nav-border: rgb(248, 235, 255);
+$color-top-nav-border: white;
 
 // This sets the thickness of the bottom border on the top nav bar on mobile
 // default is 0px

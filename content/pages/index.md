@@ -2,7 +2,7 @@
 layout: portfolio.njk
 portfolio_type: wide
 eleventyNavigation:
-  title: Design Portfolio
+  title: Portfolio
   key: design
   order: 0
 ---
