@@ -2,7 +2,7 @@
 layout: page.njk
 hideDefaultTitle: true
 eleventyNavigation:
-  key: About/Contact
+  key: about/contact
   order: 10
 ---
 

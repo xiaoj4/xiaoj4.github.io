@@ -2,10 +2,10 @@
 layout: project.njk
 
 thumbnail: /img/thumbnail-ceramic-coffees.png
-description_short: Developing a Brand Identity
+description_short: developing a brand identity
 description_medium: branding, print design, etc.
 eleventyNavigation:
-  key: Ceramic Coffees
+  key: ceramic coffees
   parent: design
   order: 1
 ---

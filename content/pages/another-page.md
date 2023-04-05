@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 eleventyNavigation:
-  key: Another Page
+  key: another page
   parent:
   order: 5
 ---
