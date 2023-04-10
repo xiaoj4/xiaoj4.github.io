@@ -103,7 +103,7 @@ $color-sidebar-highlight: black;
 
 //this sets the color of the rule on the sidebar (shown between the masthead and the pages)
 //default is black;
-$color-sidebar-rule: black;
+$color-sidebar-rule: rgb(255, 255, 255);
 
 // this sets the weight of the rule on the sidebar;
 // default is 2px
@@ -144,7 +144,7 @@ $color-text-headers: rgb(255, 255, 255);
 // This line sets the color of borders and rules on the page
 // Set this to transparent to get rid of them entirely
 // default is black
-$color-borders: black;
+$color-borders: white;
 
 //This line sets the width of borders on the main page area
 $border-width: 2px;

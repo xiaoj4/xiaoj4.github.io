@@ -107,7 +107,7 @@ p > img {
 }
 
 main hr {
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid white;
   border-top: none;
 }
 main h1,
@@ -171,7 +171,7 @@ body {
 }
 
 .sidebar-rule {
-  border-bottom: 0px solid black;
+  border-bottom: 0px solid rgb(255, 255, 255);
 }
 
 .btn-toggle-menu {
@@ -556,7 +556,7 @@ html {
   }
 }
 .page-title {
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid white;
   padding-bottom: 1rem;
 }
 
@@ -573,7 +573,7 @@ pre {
 
 .component-inline-nav {
   max-width: 60rem;
-  border-top: 2px solid black;
+  border-top: 2px solid white;
   padding-top: 1rem;
   margin-top: 2rem;
 }
