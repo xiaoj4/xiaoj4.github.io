@@ -15,6 +15,8 @@ eleventyNavigation:
 
 **THIS PROJECT IS STILL IN-PROGRESS AND WILL BE EDITED AS IT IS UPDATED
 
+---
+
 ## WHAT IS THIS PROJECT?
 Ceramic Coffees is a branding project for a cafe and bakery themed establishment. As an academical project, this is a purely fictional establishment and business. 
 

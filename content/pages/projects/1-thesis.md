@@ -8,6 +8,7 @@ eleventyNavigation:
   key: HOW DO YOU GAME?
   parent: design
   order: 1
+  
 ---
 
 ![How Do You Game? Mockup](/img/thesis-zine-mockup.png)
@@ -15,8 +16,10 @@ eleventyNavigation:
 
 **THIS PROJECT IS STILL IN-PROGRESS AND WILL BE EDITED AS IT IS UPDATED
 
+---
+
 ## WHAT IS THIS PROJECT?
-How Do You Game? is a thesis project on the gender discrimination within the gaming community. This is a topic that is close to my heart as a woman who has been subjected to attitude changes solely based on my gender that affects my gaming experience. This project is to create a space where I am able to share gendered gaming experiences that other discriminated gamers have shared with me.
+_How Do You Game?_ is a thesis project on the gendered gaming experience. While open to all gender, there is more of a focus on the gender discrimination against non-cis-male members of the gaming community in order to spread more awareness.
 
 ## DESIGN PROCESS
 The foundation of this project rests on the answers I recieved from a questionnaire that was conducted from Novemeber 2022 to Februrary 2023. The used answers were then edited slightly for grammatical or clarity reasons. This questionnaire allowed those who wish to share their gendered gaming experience to use for this project. 
