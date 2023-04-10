@@ -7,7 +7,7 @@ description_medium: print design, ui/ux
 eleventyNavigation:
   key: HOW DO YOU GAME?
   parent: design
-  order: 2
+  order: 1
 ---
 
 ![How Do You Game? Mockup](/img/thesis-zine-mockup.png)

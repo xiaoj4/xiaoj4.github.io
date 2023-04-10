@@ -7,7 +7,7 @@ description_medium: branding, print design, ui/ux
 eleventyNavigation:
   key: CERAMIC COFFEES
   parent: design
-  order: 1
+  order: 2
 ---
 ![Ceramic Coffees Window Signage Mockup](/img/thumbnail-ceramic-coffees.png)
 ![Ceramic Coffees Menu](/img/ceramic-coffees-menu.png)
