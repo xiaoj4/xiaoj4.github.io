@@ -1,13 +1,14 @@
 ---
 layout: project.njk
 
-thumbnail: /img/sample/community-builders-tile.jpg
+thumbnail: /img/digital-storytelling.jpg
 description_short: interactive story of "this is your brain on heartbreak"
 description_medium: ui/ux, digital storytelling
 eleventyNavigation:
   key: DIGITAL STORYTELLING
   parent: design
-  order: 7
+  order: 8
 ---
 
-
+![Digital Storytelling Mockup](/img/digital-storytelling.jpg)
+![Digital Storytelling GIF](/img/digital-storytelling-gif.gif)
