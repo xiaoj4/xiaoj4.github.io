@@ -13,7 +13,7 @@ eleventyNavigation:
 ![Make You Say](/img/make-you-say.jpg)
 ![Make You Say GIF](/img/make-you-say-gif.gif)
 
-## [Make You Say - Zedd, Maren Morris & Beauz (Lyric Video) - Youtube ](https://youtu.be/gK76mFfIjTI)
+### [Make You Say - Zedd, Maren Morris & Beauz (Lyric Video) - Youtube ](https://youtu.be/gK76mFfIjTI)
 
 ---
 

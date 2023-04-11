@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 4
 ---
 ![Howl's Moving Castle Title Sequence GIF](/img/howls-moving-castle-gif.gif)
-## [Howl's Moving Castle Title Sequence - Youtube](https://youtu.be/0VmdGIo6Ci0)
+### [Howl's Moving Castle Title Sequence - Youtube](https://youtu.be/0VmdGIo6Ci0)
 
 Movie: Howl's Moving Castle - directed by Hayao Miyazaki
 Music: theme du concerto 494 (Music from“SHIN EVANGELION") - Shiro Sagisu
