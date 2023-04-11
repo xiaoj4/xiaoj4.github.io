@@ -1,7 +1,7 @@
 ---
 layout: project.njk
 
-thumbnail: /img/thesis-zine-mockup.png
+thumbnail: /img/thesis-mockup.jpg
 description_short: thesis project on gendered gaming experiences (2022-2023)
 description_medium: print design, ui/ux
 eleventyNavigation:
@@ -11,8 +11,9 @@ eleventyNavigation:
   
 ---
 
-![How Do You Game? Mockup](/img/thesis-zine-mockup.png)
-![How Do You Game? Poster](/img/thesis-poster.png)
+![How Do You Game? Mockup](/img/thesis-mockup.jpg)
+![How Do You Game? Illustrations](/img/thesis-illustrations.jpg)
+![How Do You Game? Poster](/img/thesis-poster-image.jpg)
 
 **THIS PROJECT IS STILL IN-PROGRESS AND WILL BE EDITED AS IT IS UPDATED
 
