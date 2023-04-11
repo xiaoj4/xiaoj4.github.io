@@ -12,3 +12,7 @@ eleventyNavigation:
 
 ![Digital Storytelling Mockup](/img/digital-storytelling.jpg)
 ![Digital Storytelling GIF](/img/digital-storytelling-gif.gif)
+
+---
+## WHAT IS THIS PROJECT?
+The prompt of this piece was to select an article and thus adapt it into an interative story that allows for digital storyteling.
