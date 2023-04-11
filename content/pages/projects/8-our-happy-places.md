@@ -2,8 +2,8 @@
 layout: project.njk
 
 thumbnail: /img/sample/community-builders-tile.jpg
-description_short: interactive story of "this is your brain on heartbreak"
-description_medium: ui/ux, digital storytelling
+description_short: sustainable development goal poster
+description_medium: print design, poster, design research
 eleventyNavigation:
   key: OUR HAPPY PLACES
   parent: design
