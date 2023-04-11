@@ -1,7 +1,7 @@
 ---
 layout: project.njk
 
-thumbnail: /img/meditateful-mockup.png
+thumbnail: /img/meditateful-mockup.jpg
 description_short: meditation and mental health app
 description_medium: ui/ux, app design, branding
 eleventyNavigation:
