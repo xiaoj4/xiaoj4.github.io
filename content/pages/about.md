@@ -15,7 +15,7 @@ When I'm not working on my design projects, you can find me baking goodies, enjo
 ## CONTACT{.page-title}
 
 I am always open to connect with you and chat about your design project! Even if you need some help bringing your ideas to life, I'm here to help. Please schedule a consultation with me so we can discuss your project in more detail together.  
-If you have any questions or just wish to chat about UI/UX design please feel free to send me an email!
+If you have any questions or just wish to chat about UI/UX design please feel free to send me an email!!
 
 Email me at: maggiex515@gmail.com
 
